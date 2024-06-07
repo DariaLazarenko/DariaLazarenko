@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daria</h1>
-<h3 align="center">A passionate junior frontend developer</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🦾 I’m currently working in [financial analysis-related startup called Quantly](https://www.quantly-ai.com)
 
