@@ -3,7 +3,7 @@
 
 - 🦾 I’m currently working in [financial analysis-related startup called Quantly](https://www.quantly-ai.com)
 
-- 🌱 I’m currently learning **advanced React.js and TypeScript, unit and E2E testing for frontend**
+- 🌱 I’m currently learning **Redux, CI/CD - Github Actions, Docker**
 
 - 📫 How to reach me **lazarenko200454@gmail.com**
 
