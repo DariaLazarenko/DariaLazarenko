@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Angular, CI/CD - Github Actions, RxJs**
 
-- 📫 How to reach me: **lazarenko200454@gmail.com**
+- 📫 How to reach me: **darialazarenko4@gmail.com**
 
 - ⚡ Fun fact: **squirrel nut dealer**
 
