@@ -11,7 +11,7 @@
 
 <h3 align="left">Frontend Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,vitest,nodejs,nextjs,sass,tailwind,playwrite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vite,vitest,nodejs,nextjs,sass,tailwind,playwrite)](https://skillicons.dev)
 
 <h3 align="left">Development Tools: </h3>
 
