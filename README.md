@@ -9,11 +9,11 @@
 
 - ⚡ Fun fact: **squirrel nut dealer**
 
-<h3 align="left">Frontend Tools:</h3>
+<h3 align="left">Development Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vite,vitest,nodejs,nextjs,sass,tailwind,playwrite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,html,css,vite,vitest,nodejs,nextjs,sass,tailwind,jest,playwrite)](https://skillicons.dev)
 
-<h3 align="left">Development Tools: </h3>
+<h3 align="left">Workflow Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,pnpm,npm,vscode,bash,sentry,figma)](https://skillicons.dev)
 
