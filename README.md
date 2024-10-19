@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daria</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
-- 🦾 I’m currently working in [financial analysis-related startup called Quantly](https://www.quantly-ai.com)
+- 🦾 I’m open for new opportunities
 
-- 🌱 I’m currently learning: **Angular, CI/CD - Github Actions, RxJs**
+- 🌱 I’m currently learning: **GraphQL, CI/CD - Github Actions, Redux**
 
 - 📫 How to reach me: **darialazarenko4@gmail.com**
 
