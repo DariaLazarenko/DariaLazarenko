@@ -3,8 +3,6 @@
 
 - 🦾 I’m open for new opportunities
 
-- 🌱 I’m currently learning: **GraphQL, CI/CD - Github Actions, Redux**
-
 - 📫 How to reach me: **darialazarenko4@gmail.com**
 
 - ⚡ Fun fact: **squirrel nut dealer**
