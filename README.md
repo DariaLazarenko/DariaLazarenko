@@ -9,7 +9,7 @@
 
 <h3 align="left">Development Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,html,css,vite,vitest,nodejs,nextjs,sass,tailwind,jest,playwrite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,ts,js,html,css,vite,vitest,nextjs,nodejs,sass,tailwind,jest,playwrite)](https://skillicons.dev)
 
 <h3 align="left">Workflow Tools:</h3>
 
