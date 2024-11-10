@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daria</h1>
 <h3 align="center">A passionate Software Engineer - Frontend / Full-Stack</h3>
 
-- 🦾 I’m open for new opportunities
+- 🦾 I’m currently working at [Zelt](https://zelt.app)
 
 - 📫 How to reach me: **darialazarenko4@gmail.com**
 
